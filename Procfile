@@ -1,0 +1,1 @@
+web: gunicorn apple_shop.wsgi --log-file -
